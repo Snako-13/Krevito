@@ -1,12 +1,12 @@
-# Krevito
-« Krevito, neg ki pap bay fanm lajan »
-# KrevitoCoin (KREV)
+# Krevit
+« Krevit, moun ki pap bay menaj li lajan »
+# KrevitCoin (KREV)
 
 ## Description
-KrevitoCoin est un memecoin basé sur la culture et les mèmes. Inspiré par l'esprit "Krevito", ce token représente la liberté financière avec une touche d'humour !
+KrevitCoin est un memecoin basé sur la culture et les mèmes. Inspiré par l'esprit "Krevito", ce token représente la liberté financière avec une touche d'humour !
 
 ## Caractéristiques
-- **Nom** : KrevitoCoin
+- **Nom** : KrevitCoin
 - **Symbole** : KREV
 - **Offre totale** : 1,000,000,000 KREV
 - **Blockchain** : Binance Smart Chain (BEP-20)
